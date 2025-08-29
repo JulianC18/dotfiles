@@ -6,7 +6,7 @@ This is a dotfiles repository for my personal Nobara Linux setup, running on the
 
 Here's a quick look at my setup in action.
 
-[Todo: add Setup Video]
+[https://youtu.be/uveNQMcxiCc?si=LsXGsuOZ-N4Sg09y]
 
 🚀 Features & Applications
 
