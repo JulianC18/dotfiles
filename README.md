@@ -4,9 +4,10 @@ This is a dotfiles repository for my personal Nobara Linux setup, running on the
 
 ✨ Showcase
 
-Here's a quick look at my setup in action.
 
-[https://youtu.be/uveNQMcxiCc?si=LsXGsuOZ-N4Sg09y]
+
+[Here's a quick look at my setup in action]
+(https://youtu.be/uveNQMcxiCc?si=LsXGsuOZ-N4Sg09y)
 
 🚀 Features & Applications
 
